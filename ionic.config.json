@@ -1,0 +1,8 @@
+{
+  "name": "Bookkeeping",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "42d1fed1"
+}
